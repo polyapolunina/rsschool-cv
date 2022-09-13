@@ -1,7 +1,7 @@
 # Polina Polunina
 ## Junior Frontend Developer
 ### Contact information:
-- **Phone:** +7 963787 4653
+- **Phone:** +7 9637874653
 - **E-mail:** polyapolunina@mail.ru
 - **Telegram:** @polyapolunina
 ### About Myself:
