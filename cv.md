@@ -8,7 +8,7 @@
 I'm 21 years old. I've been working in the service sector since I was 16, and I don't forget to study. 
 During my work, I showed a lot of soft-skills: stress tolerance, purposefulness, teamwork, responsibility. 
 Also 3 years ago I started studying photography and retouching in Photoshop. And as a result, I own it well. 
-But I started the way to development quite recently: in May 2022.
+But I started the way to development quite recently: in May 2022. Now I work as a web designer in a hypermarket. My tasks include: typesetting emails and creating advertising banners. But in the future I want to dive into development only.
 
 I learn programming: with video courses and lectures, and of course through practice. I started with HTML, 
 CSS - made up landing pages. I even made a couple of full one-page websites to order. I am eager to study further 
